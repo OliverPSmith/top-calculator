@@ -34,6 +34,7 @@ operatorBtns.forEach((operatorBtn) => {
 //                  the operator buttons being pressed multiple times in the same equation.
 //              --> generally think about storing data, equations, functions etc within functions /
 //                  or variables of somekind.
+//              --> the numbers / operators are currently displayed in the screen but not stored anywhere.
 
 // buttons.forEach((button) => {
 //     button.addEventListener('click', () => {
